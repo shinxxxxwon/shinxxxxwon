@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shinxxxxwon
-- 👀 I’m interested in programming the game
-- 🌱 I’m currently learning C, C++, MFC, UE4
+- 👀 I’m interested programming
+- 🌱 I’m currently learning C, C++, MFC
 - 📫 How to reach me shinxxxxwon@gmail.com
 
 <!---

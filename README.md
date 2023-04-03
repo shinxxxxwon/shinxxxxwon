@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @shinxxxxwon
-- 👀 I’m interested programming in C, C++, MFC, UE4 and Unity 
-- 🌱 I’m currently learning C, C++, MFC
-- 📫 How to reach me shinxxxxwon@gmail.com
+
 
 <!---
 shinxxxxwon/shinxxxxwon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
